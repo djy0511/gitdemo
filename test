@@ -1,8 +1,1 @@
-test file for merge demo.
-<<<<<<< HEAD
-test B
-BBBB
-=======
-Switched to a new branch "featuel"
-aaaa
->>>>>>> featurel
+Branch master A.
